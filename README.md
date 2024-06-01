@@ -38,15 +38,6 @@ This program converts temperatures between Celsius, Fahrenheit, and Kelvin scale
 
    The program will display the converted temperature values in the other two units.
 
-### Example
-
-```
-Enter the temperature value: 25
-Enter the unit of measurement (C for Celsius, F for Fahrenheit, K for Kelvin): C
-25 degC is:
-77 degF and 298.15 K
-```
-
 ### Code Explanation
 
 #### Functions
